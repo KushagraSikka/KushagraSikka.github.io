@@ -1,0 +1,329 @@
+{
+  "sectionTitle": "Featured Projects",
+  "projects": [
+    {
+      "title": "Retaining Ring Analysis",
+      "description": "Conducted finite element analysis of retaining rings under displace-\nment boundary conditions. Identified yielding risks and recommended material/design changes to enhance durability.",
+      "color": "#667eea",
+      "icon": "fas fa-project-diagram",
+      "technologies": [
+        "Abaqus",
+        "FEA",
+        "GD&T"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "",
+        "demo": ""
+      },
+      "stats": {}
+    },
+    {
+      "title": "Overhead Crane Redesign",
+      "description": "Re-engineered hanging end truck\nof an overhead crane, applying DFM/DFA principles. Achieved 10% manufacturing cost reduction while maintaining\nload-bearing performance.",
+      "color": "#764ba2",
+      "icon": "fas fa-project-diagram",
+      "technologies": [
+        "DFM/DFA",
+        "Cost Optimization",
+        "CAD Modeling"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "",
+        "demo": ""
+      },
+      "stats": {}
+    },
+    {
+      "title": "Heat Pipe Simulation",
+      "description": "Modeled heat pipe thermal behavior using orthotropic\ncylindrical block simulation. Generated temperature contours and airflow velocity vectors around fan-heat sink assembly,\nvalidating thermal efficiency.",
+      "color": "#f093fb",
+      "icon": "fas fa-project-diagram",
+      "technologies": [
+        "ANSYS Icepak",
+        "Thermal Modeling"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "",
+        "demo": ""
+      },
+      "stats": {}
+    },
+    {
+      "title": "Automotive Sub-System Design",
+      "description": "Designed and optimized routing for fuel\nfeed pump, radiator fan, tail lamp, and starter motor assemblies. Reduced wiring harness cost by 10% through clash\ndetection and optimized layouts.",
+      "color": "#4facfe",
+      "icon": "fas fa-project-diagram",
+      "technologies": [
+        "CAD (NX, Pro-E)",
+        "FEA Validation"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "",
+        "demo": ""
+      },
+      "stats": {}
+    },
+    {
+      "title": "Locomotive Component Definition",
+      "description": "Supported PDE activities for lo-\ncomotive systems. Developed manufacturable sheet metal, piping, and wire harness designs, ensuring compliance with\nASME standards and reducing rework by 15%.",
+      "color": "#667eea",
+      "icon": "fas fa-project-diagram",
+      "technologies": [
+        "Teamcenter PLM",
+        "ASME Y14.5 GD&T"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "",
+        "demo": ""
+      },
+      "stats": {}
+    },
+    {
+      "title": "RAG_Microservice-",
+      "description": "RAG-Microservice: A robust, scalable question-answering service leveraging the Retriever-Answer Generator (RAG) architecture. Built with [Tech/Models used, e.g., Elasticsearch, GPT-3], this service efficiently retrieves relevant documents and generates precise answers for complex queries. ",
+      "color": "#764ba2",
+      "icon": "fab fa-github",
+      "technologies": [
+        "Python",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Dockerfile",
+        "Shell"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/KushagraSikka/RAG_Microservice-",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 16,
+        "forks": 1,
+        "language": "Python"
+      }
+    },
+    {
+      "title": "comprehensive-mcp-guide",
+      "description": " The Complete Model Context Protocol (MCP) Guide - 181 files, 15+ commits, 100+ examples",
+      "color": "#f093fb",
+      "icon": "fab fa-github",
+      "technologies": [
+        "JavaScript"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/KushagraSikka/comprehensive-mcp-guide",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 1,
+        "forks": 1,
+        "language": "JavaScript"
+      }
+    },
+    {
+      "title": "Gator_taxi_Advanced_data_struc",
+      "description": "GatorTaxi is a ride-sharing system that efficiently manages ride requests using a Red-Black Tree (RBT) and Min-Heap. The system supports inserting, updating, querying, and canceling rides, ensuring fast operations. With O(log n) complexity, it handles up to 2000 active rides, offering optimal performance for real-time ride management.",
+      "color": "#4facfe",
+      "icon": "fab fa-github",
+      "technologies": [
+        "Python",
+        "Makefile"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/KushagraSikka/Gator_taxi_Advanced_data_struc",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 1,
+        "forks": 1,
+        "language": "Python"
+      }
+    },
+    {
+      "title": "bank-app-spring-cloud-microservices",
+      "description": "Practice repository for exploring advanced features",
+      "color": "#667eea",
+      "icon": "fab fa-github",
+      "technologies": [
+        "Java"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/KushagraSikka/bank-app-spring-cloud-microservices",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 1,
+        "forks": 0,
+        "language": "Java"
+      }
+    },
+    {
+      "title": "minikeyvalue",
+      "description": "Interactive application built for continuous learning",
+      "color": "#764ba2",
+      "icon": "fab fa-github",
+      "technologies": [
+        "Go",
+        "Python",
+        "Shell",
+        "Dockerfile"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/KushagraSikka/minikeyvalue",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 1,
+        "forks": 0,
+        "language": "Go"
+      }
+    },
+    {
+      "title": "portfolio",
+      "description": "A modern, responsive portfolio template with JSON-driven content, beautiful design, and easy customization. Perfect for developers, designers, and professionals.",
+      "color": "#f093fb",
+      "icon": "fab fa-github",
+      "technologies": [
+        "JavaScript",
+        "CSS",
+        "Shell",
+        "HTML"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/KushagraSikka/portfolio",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 1,
+        "language": "JavaScript"
+      }
+    },
+    {
+      "title": "sentiment-analysis-webapp-sagemaker",
+      "description": "Full-featured application built as a learning exercise",
+      "color": "#4facfe",
+      "icon": "fab fa-github",
+      "technologies": [
+        "Jupyter Notebook",
+        "Python",
+        "HTML"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/KushagraSikka/sentiment-analysis-webapp-sagemaker",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "Jupyter Notebook"
+      }
+    },
+    {
+      "title": "itinerary-planner",
+      "description": "Personal development project using industry best practices",
+      "color": "#667eea",
+      "icon": "fab fa-github",
+      "technologies": [
+        "Java",
+        "CSS",
+        "HTML"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/KushagraSikka/itinerary-planner",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "Java"
+      }
+    },
+    {
+      "title": "patient-appointment-system",
+      "description": "Hands-on learning experience with modern frameworks",
+      "color": "#764ba2",
+      "icon": "fab fa-github",
+      "technologies": [
+        "JavaScript",
+        "CSS",
+        "HTML"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/KushagraSikka/patient-appointment-system",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "JavaScript"
+      }
+    },
+    {
+      "title": "gatordwelling2",
+      "description": "Interactive application built for continuous learning",
+      "color": "#f093fb",
+      "icon": "fab fa-github",
+      "technologies": [
+        "JavaScript",
+        "CSS",
+        "HTML",
+        "Python"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/KushagraSikka/gatordwelling2",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "JavaScript"
+      }
+    }
+  ]
+}

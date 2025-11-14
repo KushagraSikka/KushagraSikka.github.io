@@ -1,0 +1,54 @@
+{
+  "sectionTitle": "Skills & Technologies",
+  "categories": [
+    {
+      "category": "Technical Skills",
+      "icon": "fas fa-code",
+      "color": "#667eea",
+      "skills": [
+        "Design & CAD Software",
+        "AutoCAD",
+        "SolidWorks",
+        "Pro/ENGINEER (Pro-E/Creo Parametric)",
+        "Siemens NX (UG NX)",
+        "Windchill",
+        "Teamcenter PLM",
+        "Reliability & Quality Engineering",
+        "DFMEA",
+        "DFM/DFA",
+        "GD&T (ASME Y14.5)",
+        "HTHE",
+        "HTOL",
+        "Field Failure Analysis (FFA)",
+        "Collaboration & Process Tools",
+        "Confluence",
+        "Polarion",
+        "QC",
+        "ECR & ECN",
+        "Stage-Gate PDP"
+      ]
+    },
+    {
+      "category": "Tools & Frameworks",
+      "icon": "fas fa-tools",
+      "color": "#764ba2",
+      "skills": [
+        "Confluence",
+        "Polarion",
+        "QC",
+        "ECR & ECN",
+        "Stage-Gate PDP",
+        "Abaqus",
+        "FEA",
+        "GD&T",
+        "Cost Optimization",
+        "CAD Modeling",
+        "ANSYS Icepak",
+        "Thermal Modeling",
+        "CAD (NX, Pro-E)",
+        "FEA Validation",
+        "ASME Y14.5 GD&T"
+      ]
+    }
+  ]
+}

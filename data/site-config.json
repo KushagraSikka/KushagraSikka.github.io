@@ -1,0 +1,13 @@
+{
+  "title": "Venkata Sai Satish Somesula - Professional Portfolio",
+  "description": "Professional portfolio showcasing my work and experience",
+  "author": "Venkata Sai Satish Somesula",
+  "keywords": "Design & CAD Software, AutoCAD, SolidWorks, Pro/ENGINEER (Pro-E/Creo Parametric), Siemens NX (UG NX), Windchill, Teamcenter PLM, Reliability & Quality Engineering, DFMEA, DFM/DFA, GD&T (ASME Y14.5), HTHE, HTOL, Field Failure Analysis (FFA), Collaboration & Process Tools, Confluence, Polarion, QC, ECR & ECN, Stage-Gate PDP, Abaqus, FEA, GD&T, Cost Optimization, CAD Modeling, ANSYS Icepak, Thermal Modeling, CAD (NX, Pro-E), FEA Validation, ASME Y14.5 GD&T",
+  "ogImage": "/assets/images/og-image.jpg",
+  "favicon": "/assets/images/favicon.ico",
+  "theme": {
+    "primaryColor": "#3b82f6",
+    "secondaryColor": "#8b5cf6",
+    "accentColor": "#ec4899"
+  }
+}
