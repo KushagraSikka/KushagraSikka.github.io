@@ -1,0 +1,48 @@
+{
+  "_instructions": "Add your work experience here. Copy the experience object for each job.",
+  "sectionTitle": "Professional Experience",
+  "experiences": [
+    {
+      "title": "Product Owner",
+      "company": "Tata Consultancy Services",
+      "period": "Mar 2021 - Jul 2023",
+      "location": "",
+      "description": "Owned roadmap and release cycles for a multi-institution admissions SaaS platform serving 20,000+ students across 300 institutions.\nDefined data annotation workflows and collaborated with business SMEs and technical leads to enhance platform automation and reporting capabilities.\nDrove alignment with development, QA, and architecture teams, strengthening testing and reducing deployment delays by approximately 20%.\nUsed SQL and Power BI to design and implement performance analyses, KPI dashboards, and custom reports, informing feature enhancements and increasing customer engagement by about 15%.\nExecuted A/B tests on feature launches to inform prioritization decisions and increase customer engagement by about 15%.\nUsed Jira, SQL, and Power BI to track KPIs, identify bottlenecks, and streamline workflows, accelerating time-to-market by roughly 30%.\nCoordinated onboarding for new institutions, overseeing configuration and contracts to ensure seamless rollout and rapid adoption.",
+      "responsibilities": [
+        "Owned roadmap and release cycles for a multi-institution admissions SaaS platform serving 20,000+ students across 300 institutions",
+        "Defined data annotation workflows and collaborated with business SMEs and technical leads to enhance platform automation and reporting capabilities",
+        "Drove alignment with development, QA, and architecture teams, strengthening testing and reducing deployment delays by approximately 20%",
+        "Used SQL and Power BI to design and implement performance analyses, KPI dashboards, and custom reports, informing feature enhancements and increasing customer engagement by about 15%",
+        "Executed A/B tests on feature launches to inform prioritization decisions and increase customer engagement by about 15%",
+        "Used Jira, SQL, and Power BI to track KPIs, identify bottlenecks, and streamline workflows, accelerating time-to-market by roughly 30%",
+        "Coordinated onboarding for new institutions, overseeing configuration and contracts to ensure seamless rollout and rapid adoption"
+      ]
+    },
+    {
+      "title": "System Analyst",
+      "company": "Tata Consultancy Services",
+      "period": "Oct 2020 - Mar 2021",
+      "location": "",
+      "description": "Gathered and translated technical requirements from multiple institutions into system workflows and process models for a national student ranking platform.\nAnalyzed backend data flows and developed SQL queries for data validation, supporting accurate and efficient data reporting.\nCollaborated with QA and client stakeholders on testing, validation, and debugging to enhance data accuracy and reliability.\nAuthored process documentation and user guides to support smooth adoption and improve user satisfaction.\nContributed to backend logic development in Java and integrated UI components to support a faster MVP launch.",
+      "responsibilities": [
+        "Gathered and translated technical requirements from multiple institutions into system workflows and process models for a national student ranking platform",
+        "Analyzed backend data flows and developed SQL queries for data validation, supporting accurate and efficient data reporting",
+        "Collaborated with QA and client stakeholders on testing, validation, and debugging to enhance data accuracy and reliability",
+        "Authored process documentation and user guides to support smooth adoption and improve user satisfaction",
+        "Contributed to backend logic development in Java and integrated UI components to support a faster MVP launch"
+      ]
+    },
+    {
+      "title": "Functional Testing Intern",
+      "company": "Siemens Pvt Ltd",
+      "period": "Jun 2018 - Aug 2018",
+      "location": "",
+      "description": "Executed functional and regression test cases for enterprise software, identifying critical defects to improve release quality.\nPerformed end-to-end workflow testing and documented outcomes to increase test coverage and accuracy.\nSupported test data preparation and environment setup, helping reduce testing delays and maintain smooth cycles.",
+      "responsibilities": [
+        "Executed functional and regression test cases for enterprise software, identifying critical defects to improve release quality",
+        "Performed end-to-end workflow testing and documented outcomes to increase test coverage and accuracy",
+        "Supported test data preparation and environment setup, helping reduce testing delays and maintain smooth cycles"
+      ]
+    }
+  ]
+}

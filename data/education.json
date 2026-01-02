@@ -1,0 +1,39 @@
+{
+  "_instructions": "Add your education and certifications here.",
+  "sectionTitle": "Education & Certifications",
+  "certificationsTitle": "Certifications",
+  "education": [
+    {
+      "degree": "MSc",
+      "school": "The University of Texas at Arlington",
+      "institution": "The University of Texas at Arlington",
+      "period": "",
+      "details": "",
+      "description": ""
+    },
+    {
+      "degree": "BSc",
+      "school": "NMIMS University",
+      "institution": "NMIMS University",
+      "period": "",
+      "details": "",
+      "description": ""
+    }
+  ],
+  "certifications": [
+    {
+      "title": "CSPO:Certified Scrum Product Owner",
+      "name": "CSPO:Certified Scrum Product Owner",
+      "issuer": "",
+      "date": "",
+      "icon": "fas fa-certificate"
+    },
+    {
+      "title": "IBM AI Product Manager Professional Certificate",
+      "name": "IBM AI Product Manager Professional Certificate",
+      "issuer": "",
+      "date": "",
+      "icon": "fas fa-certificate"
+    }
+  ]
+}

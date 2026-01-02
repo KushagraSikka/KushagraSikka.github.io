@@ -1,0 +1,39 @@
+{
+  "_instructions": "Organize your skills with vibrant colors.",
+  "sectionTitle": "Skills & Technologies",
+  "categories": [
+    {
+      "category": "Programming Languages",
+      "icon": "fas fa-code",
+      "color": "#FF6B6B",
+      "skills": [
+        "Java",
+        "Python",
+        "JavaScript",
+        "CSS",
+        "SQL"
+      ]
+    },
+    {
+      "category": "Tools & Platforms",
+      "icon": "fas fa-wrench",
+      "color": "#4ECDC4",
+      "skills": [
+        "Power BI"
+      ]
+    },
+    {
+      "category": "Technical Skills",
+      "icon": "fas fa-laptop-code",
+      "color": "#FFE66D",
+      "skills": [
+        "Jira",
+        "Confluence",
+        "Asana",
+        "Miro",
+        "MS Project",
+        "CRM"
+      ]
+    }
+  ]
+}
